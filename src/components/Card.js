@@ -13,7 +13,7 @@ const Card = () => {
         </div>
         <div className='rounded-xl relative hover:scale-105 duration-500 cursor-pointer'>
             <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-                <p className=' font-bold text-2xl px-2 pt-4'>Sun's Out, BOGO's Out</p>
+                <p className=' font-bold text-2xl px-2 pt-4'>Abvss Snack Pack</p>
                 <p className='px-2'>Through 8/26</p>
                 <button className='border border-white bg-white text-black mx-2 rounded-xl px-5 py-1 absolute bottom-4 shadow-md'>Order Now</button>
             </div>
